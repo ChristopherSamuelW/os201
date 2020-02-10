@@ -1,0 +1,2 @@
+W02 Log
+TODO : Encryption using RSA and public key
