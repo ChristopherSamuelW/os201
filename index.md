@@ -1,6 +1,7 @@
-## This is ChristopherSamuelW's Github Pages For OS Course
+# This is ChristopherSamuelW's Github Pages For OS Course
 
-# Nama saya adalah Christopher Samuel (GitHub Username : ChristopherSamuelW)
+## Nama saya adalah Christopher Samuel 
+## (GitHub Username : ChristopherSamuelW)
 Saya adalah mahasiswa Fasilkom UI, jurusan Ilmu Komputer, yang sekarang sedang menempuh mata kuliah OS.
 Saya senang coding, terutama dengan bahasa Java.
 
