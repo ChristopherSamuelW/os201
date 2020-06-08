@@ -14,7 +14,7 @@ masalah dari internal GitHub-nya...).
 ### Apa isi dari Github Pages ini?
 Github Pages ini berisi sedikit informasi mengenai diri saya, dan alasan mengapa saya membuat Github Pages ini.
 Selain itu, ada juga halaman yang berisi link-link berguna tentang OS secara keseluruhan:
-https://christophersamuelw.github.io/os201/URLs
+[URLs](URLs/)
 
 ### Kapan Github Pages ini dibuat?
 Sebenarnya, Github Pages ini sudah ada dari awal April, tetapi memang jarang saya update. Sesekali, mungkin halaman
